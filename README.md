@@ -1,29 +1,19 @@
 {
-  "students": [
-    {
-      "name": "Hitesh",
-      "course_count": 4,
-      "email": "hitesh@hiteshchoudhary.com"
+  "Users" : {
+    "-M5QoKIkpPVnzpPojVO4" : {
+      "email" : "superman@gmail.com",
+      "id" : "12345",
+      "name" : "rishank"
     },
-    {
-      "name": "Shubham",
-      "course_count": 3,
-      "email": "shubham@example.com"
+    "-M5VXYv4sv_Nvih41K0J" : {
+      "email" : "tiger@gmail.com",
+      "id" : "4568",
+      "name" : "tiger"
     },
-    {
-      "name": "Harry",
-      "course_count": 2,
-      "email": "harry@email.com"
-    },
-    {
-      "name": "Mike",
-      "course_count": 5,
-      "email": "mike@example.com"
-    },
-    {
-      "name": "Annie",
-      "course_count": 3,
-      "email": "annie@example.com"
+    "-M5VZ3p7r9Bi0g2h5KPd" : {
+      "email" : "yt@gmail.com",
+      "id" : "6392p2",
+      "name" : "yashu"
     }
-  ]
+  }
 }
